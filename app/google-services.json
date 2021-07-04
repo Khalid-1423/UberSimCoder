@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "191221617074",
+    "firebase_url": "https://ubersimcoder-66980.firebaseio.com",
+    "project_id": "ubersimcoder-66980",
+    "storage_bucket": "ubersimcoder-66980.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191221617074:android:dcb8c010a413d24f3514ab",
+        "android_client_info": {
+          "package_name": "com.example.ubersimcoder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191221617074-v88e36lfagn669upja5hork31uu7ee13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ubersimcoder",
+            "certificate_hash": "34620819e6e336f57cf84d9b98a3b221528b4e2f"
+          }
+        },
+        {
+          "client_id": "191221617074-hsdku7o02d8gqf7kckuql1muopcr2cjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATryJ9ac-pB8Muetx4yeEWqmlh2TopFpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191221617074-hsdku7o02d8gqf7kckuql1muopcr2cjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
